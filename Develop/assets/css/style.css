@@ -82,9 +82,11 @@ p {
     clear: both;
     float: right;
     width: 20%;
-    height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    position: absolute;
+    right: 5px;
+    top: 920px;
 }
 
 .benefit-lead {
