@@ -1,20 +1,21 @@
+/* global styling*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* Styling for the body */
 body {
     background-color: #d9dcd6;
 }
-
+/* Styling for the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+*/
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -125,12 +126,10 @@ p {
     padding: 20px;
     clear: both;
     float: right;
-    width: 20%;v
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 20%;
+    height: 100%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
     background-color: #2589bd;
-    position: absolute;
-    right: 5px;
-    top: 920px;
 }
 .benefit-lead {
     margin-bottom: 32px;
