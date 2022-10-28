@@ -13,7 +13,12 @@ Refactored a marketing agency website to use semantic HTML elements such as head
 #### Technologies Used
 
 HTML
+
 CSS
 
+<<<<<<< HEAD
 
 ![alt text](Screenshot.png)
+=======
+![Screenshot](https://user-images.githubusercontent.com/72218203/198726307-3b5af5c0-1260-404e-8a33-e9005bc6c950.png)
+>>>>>>> refs/remotes/origin/main
